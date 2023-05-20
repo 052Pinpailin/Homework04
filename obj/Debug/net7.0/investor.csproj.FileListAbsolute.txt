@@ -1,0 +1,15 @@
+E:\investor\bin\Debug\net7.0\investor.exe
+E:\investor\bin\Debug\net7.0\investor.deps.json
+E:\investor\bin\Debug\net7.0\investor.runtimeconfig.json
+E:\investor\bin\Debug\net7.0\investor.dll
+E:\investor\bin\Debug\net7.0\investor.pdb
+E:\investor\obj\Debug\net7.0\investor.csproj.AssemblyReference.cache
+E:\investor\obj\Debug\net7.0\investor.GeneratedMSBuildEditorConfig.editorconfig
+E:\investor\obj\Debug\net7.0\investor.AssemblyInfoInputs.cache
+E:\investor\obj\Debug\net7.0\investor.AssemblyInfo.cs
+E:\investor\obj\Debug\net7.0\investor.csproj.CoreCompileInputs.cache
+E:\investor\obj\Debug\net7.0\investor.dll
+E:\investor\obj\Debug\net7.0\refint\investor.dll
+E:\investor\obj\Debug\net7.0\investor.pdb
+E:\investor\obj\Debug\net7.0\investor.genruntimeconfig.cache
+E:\investor\obj\Debug\net7.0\ref\investor.dll
